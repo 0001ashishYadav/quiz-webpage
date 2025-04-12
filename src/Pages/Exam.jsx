@@ -1,7 +1,7 @@
 import React from "react";
 
 function ExamPage() {
-  return <div>ExamPage</div>;
+  return <section className="pt-16">ExamPage</section>;
 }
 
 export default ExamPage;

@@ -1,7 +1,7 @@
 import React from "react";
 
 function HomePage() {
-  return <div>HomePage</div>;
+  return <section className="pt-16">Home Page</section>;
 }
 
 export default HomePage;
